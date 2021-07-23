@@ -2,8 +2,6 @@
 
 > A simple ToDo application using Laravel 8 and Vue 3 Composition API.
 
-### Demo: [https://todo-app.burakgur.vercel.app/](https://todo-app.burakgur.vercel.app/)
-
 ## Project setup
 
 ```
